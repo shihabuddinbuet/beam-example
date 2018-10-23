@@ -1,4 +1,4 @@
-package com.su.beam.example.textIO;
+package com.su.beam.example.transform.textIO;
 
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.TextIO;
