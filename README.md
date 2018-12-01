@@ -11,8 +11,8 @@ If you are not familar with apache beam, first gather some knowledge before
 going through the project. Here is the way how to start:
 
 ### Prerequisite
-   Java sdk > 7
-   Maven > 3.0.0
+1. Java sdk >=8
+2. Maven >=3.0.0
 
 ### Installing
 1. Install java from [here](https://www.java.com/en/download/) if java is not installed
