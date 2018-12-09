@@ -7,8 +7,8 @@ data.The objective of the project is to show some examples to use apache beam
 for data processing.
 
 ## Getting Started
-If you are not familar with apache beam, first gather some knowledge before
-going through the project. Here is the way how to start:
+If you are new and looking for how to start using apache beam for data processing, 
+then you are at the right place to begin. Here is the way how to begin:
 
 ### Prerequisite
 1. Java sdk >=8
