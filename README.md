@@ -1,5 +1,5 @@
 # beam-example
-A basic use apache beam to process data
+A basic use of apache beam to process data
 
 ## Description
 Apache beam is a popular unified  programming model to process both batch and stream
