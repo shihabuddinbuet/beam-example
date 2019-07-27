@@ -11,7 +11,7 @@ If you are new and looking for how to start using apache beam for data processin
 then you are at the right place to begin. Here is the way how to begin:
 
 ### Prerequisite
-1. Java sdk >=8
+1. Java sdk >=9
 2. Maven >=3.0.0
 
 ### Installing
